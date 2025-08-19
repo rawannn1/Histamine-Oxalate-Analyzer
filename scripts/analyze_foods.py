@@ -49,4 +49,4 @@ for food, grams in meal.items():
 print(f"\nTotal histamine intake: {total_histamine:.1f} mg")
 print(f"Total oxalate intake: {total_oxalate:.1f} mg")
 
-print("\n Analysis complete! See results/summary.txt and histamine_hist.png")
+print("\n Analysis complete!")
